@@ -14,7 +14,7 @@ int get_days_in_month(int month, int year) {
     return 30;
 }
 
-// Calculate day of week (0 = Sunday, 1 = Monday, etc.)
+// Calculate day of week (0 = Sunday, 1 = Monday, etc)
 int calculate_day_of_week(int day, int month, int year){
     //Refrence date: January 1, Year 1 was a Monday (1)
     
